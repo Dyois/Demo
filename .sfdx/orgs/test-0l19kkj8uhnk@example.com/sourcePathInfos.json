@@ -1,0 +1,342 @@
+[
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533107915096,
+            "changeTime": 1533108231236,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533107915096,
+            "changeTime": 1533107915096,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109673484,
+            "changeTime": 1533109673484,
+            "contentHash": "5f82321c4c29ef78733abe08833b3d1b6430a068"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533108465323,
+            "changeTime": 1533108465323,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533108465345,
+            "changeTime": 1533108465345,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1533108465344,
+            "changeTime": 1533108465344,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1533108489292,
+            "changeTime": 1533108489292,
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1533108465327,
+            "changeTime": 1533108465327,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1533108465339,
+            "changeTime": 1533108465339,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1533108465345,
+            "changeTime": 1533108465345,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1533108465342,
+            "changeTime": 1533108465342,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1533108465329,
+            "changeTime": 1533108465329,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1533108465337,
+            "changeTime": 1533108465337,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533108465340,
+            "changeTime": 1533108465340,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo",
+        {
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533108566783,
+            "changeTime": 1533108566783,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 697,
+            "modifiedTime": 1533109673462,
+            "changeTime": 1533109673462,
+            "contentHash": "18b25e21317d0870bcfa37943f98065da3924d20"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1533109673473,
+            "changeTime": 1533109673473,
+            "contentHash": "527bd26f128360909d0c6b1509454013536158a1"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4656,
+            "modifiedTime": 1533109673487,
+            "changeTime": 1533109673487,
+            "contentHash": "ce778873484c0c0b2495cab1054c46dcae9f187d"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4318,
+            "modifiedTime": 1533109673501,
+            "changeTime": 1533109673501,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4318,
+            "modifiedTime": 1533109673515,
+            "changeTime": 1533109673515,
+            "contentHash": "84d3c4613e113bd876857419b5990ac8e1b03c5b"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17735,
+            "modifiedTime": 1533109673543,
+            "changeTime": 1533109673543,
+            "contentHash": "577faf2c38ad0facaee74f2e5148421a730e12ff"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109673461,
+            "changeTime": 1533109673461,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109673472,
+            "changeTime": 1533109673472,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jdelmundo\\Desktop\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109673542,
+            "changeTime": 1533109673542,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
